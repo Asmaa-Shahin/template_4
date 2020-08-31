@@ -1,0 +1,18 @@
+.navbar-inverse .navbar-nav >.active > a, .navbar-inverse .navbar-nav > .active > a:hover,.navbar-inverse .navbar-nav >.active > a:focus{
+  background: #C17676;
+}
+.navbar-inverse .navbar-brand span {
+  color:#C17676;}
+  .dropdown-menu {
+
+  border: 3px solid #C17676;
+  
+  
+  }
+  .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+    background:#C17676;
+   
+  }
+   .dropdown-menu .divider {
+    background: #C17676;
+  }
